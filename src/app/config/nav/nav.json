@@ -1,0 +1,19 @@
+{
+  "NavLinks": [
+    {
+      "URL": "/",
+      "DisplayName": "Inicio",
+      "Icon": "fas fa-home"
+    },
+    {
+      "URL": "/",
+      "DisplayName": "Próximos lanzamientos",
+      "Icon": "far fa-calendar-alt"
+    },
+    {
+      "URL": "/",
+      "DisplayName": "Noticias",
+      "Icon": "far fa-newspaper"
+    }
+  ]
+}
