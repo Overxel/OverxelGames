@@ -1,5 +1,26 @@
 nav {
-  width: 250px;
+  max-width: 300px;
   height: 100vh;
   background-color: #FFF;
+  padding: 0 24px;
+  padding-top: 30px;
+}
+
+a {
+  padding: 15px 10px;
+  color: #606060;
+  text-decoration: none;
+}
+
+i {
+  margin-right: 24px;
+}
+
+a:hover {
+  background-color: #f2f2f2;
+
+}
+
+a:active{
+  background-color: #dfdfdf;
 }

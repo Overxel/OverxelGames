@@ -12,8 +12,18 @@
     },
     {
       "URL": "/",
-      "DisplayName": "Noticias",
-      "Icon": "far fa-newspaper"
+      "DisplayName": "Actualidad PlayStation",
+      "Icon": "fab fa-playstation"
+    },
+    {
+      "URL": "/",
+      "DisplayName": "Actualidad Xbox",
+      "Icon": "fab fa-xbox"
+    },
+    {
+      "URL": "/",
+      "DisplayName": "Actualidad Nintendo",
+      "Icon": "fas fa-gamepad"
     }
   ]
 }

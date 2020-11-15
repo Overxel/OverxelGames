@@ -2,8 +2,10 @@
     width: 100%;
     height: 50px;
     background-color: #FFF;
+    padding: 24px 24px;
 }
 
-.top-nav > button {
-    margin: 5px;
+.burguer-icon {
+    margin-right: 24px;
+    padding: 3px;
 }
